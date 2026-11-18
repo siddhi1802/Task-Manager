@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 3a49c326a201920d7eb7a1ef1223c4bee9f2c64d WadkkarAditi <aditiwadkar12@gmail.com> 1760469763 +0530	commit (initial): task manager
+3a49c326a201920d7eb7a1ef1223c4bee9f2c64d 3a49c326a201920d7eb7a1ef1223c4bee9f2c64d WadkkarAditi <aditiwadkar12@gmail.com> 1760470076 +0530	Branch: renamed refs/heads/master to refs/heads/main
+3a49c326a201920d7eb7a1ef1223c4bee9f2c64d 3a49c326a201920d7eb7a1ef1223c4bee9f2c64d WadkkarAditi <aditiwadkar12@gmail.com> 1760470353 +0530	Branch: renamed refs/heads/main to refs/heads/main
+3a49c326a201920d7eb7a1ef1223c4bee9f2c64d 3a49c326a201920d7eb7a1ef1223c4bee9f2c64d WadkkarAditi <aditiwadkar12@gmail.com> 1760470392 +0530	Branch: renamed refs/heads/main to refs/heads/main
+3a49c326a201920d7eb7a1ef1223c4bee9f2c64d 5ce0716c5a56b8432052476c955add74ee40ce8e WadkkarAditi <aditiwadkar12@gmail.com> 1760470497 +0530	pull --rebase origin main (finish): refs/heads/main onto 085d0ebb9f4713c2eede631781baf1b4d0199930
+5ce0716c5a56b8432052476c955add74ee40ce8e 58d69a588773a91d51fd63da3d52f876c7565dc9 WadkkarAditi <aditiwadkar12@gmail.com> 1760643501 +0530	commit: Task Manager
+58d69a588773a91d51fd63da3d52f876c7565dc9 3c3e0a80620a376ac8415d7090c493950f0d4fe2 WadkkarAditi <aditiwadkar12@gmail.com> 1761397377 +0530	pull origin main: Fast-forward
+3c3e0a80620a376ac8415d7090c493950f0d4fe2 9b7244a8e64f13d10e5de3465f0d94c7346384f5 WadkkarAditi <aditiwadkar12@gmail.com> 1761732755 +0530	commit: Changes in frontend
+9b7244a8e64f13d10e5de3465f0d94c7346384f5 0df389e116d57f9e9d1547d09be12e2799e003da WadkkarAditi <aditiwadkar12@gmail.com> 1763291307 +0530	commit: Frontend dashboard
+0df389e116d57f9e9d1547d09be12e2799e003da b19b5bfde674b245b6f1e8255b8e266629ae9bac WadkkarAditi <aditiwadkar12@gmail.com> 1763291748 +0530	commit (merge): frontend dashboard
+b19b5bfde674b245b6f1e8255b8e266629ae9bac 5b5d051a24f154e4e15eda6ba8f8c3a8313be120 WadkkarAditi <aditiwadkar12@gmail.com> 1763299744 +0530	commit: ProfilePicture
+5b5d051a24f154e4e15eda6ba8f8c3a8313be120 77bb529b52df19d1fc0c8eddc87842fd29643f03 WadkkarAditi <aditiwadkar12@gmail.com> 1763301739 +0530	pull origin main: Fast-forward
+77bb529b52df19d1fc0c8eddc87842fd29643f03 fa8ee77b6916d10aec24b9da3f6d7e6c1eb249ee WadkkarAditi <aditiwadkar12@gmail.com> 1763322932 +0530	commit: task and user
+fa8ee77b6916d10aec24b9da3f6d7e6c1eb249ee 773c6ddc46f68d05f3cf011d724613d388c79746 WadkkarAditi <aditiwadkar12@gmail.com> 1763323403 +0530	commit (merge): Resolved conflicts from accidental pull
+773c6ddc46f68d05f3cf011d724613d388c79746 626de103e1688161b34b26222334b5d45dd1fdd8 WadkkarAditi <aditiwadkar12@gmail.com> 1763387681 +0530	commit: New Project
+626de103e1688161b34b26222334b5d45dd1fdd8 a99e5906b8672ecbb677b273fc8fc07ea730176f WadkkarAditi <aditiwadkar12@gmail.com> 1763388325 +0530	commit (merge): Resolved README conflict and merged remote history
+a99e5906b8672ecbb677b273fc8fc07ea730176f acec119b7a94ad2b0a290033e0ddef0b26cfb609 WadkkarAditi <aditiwadkar12@gmail.com> 1763389380 +0530	commit (merge): Merged remote main branch and resolved README conflict
+acec119b7a94ad2b0a290033e0ddef0b26cfb609 c881a2d707f43caf1cf1a7fc7abe91eb62c45c93 WadkkarAditi <aditiwadkar12@gmail.com> 1778937922 +0530	commit: Project push
+c881a2d707f43caf1cf1a7fc7abe91eb62c45c93 c881a2d707f43caf1cf1a7fc7abe91eb62c45c93 WadkkarAditi <aditiwadkar12@gmail.com> 1778937933 +0530	Branch: renamed refs/heads/main to refs/heads/main
+c881a2d707f43caf1cf1a7fc7abe91eb62c45c93 36edc3d08e141a55f62312f1a0d1abfc80be72d9 WadkkarAditi <aditiwadkar12@gmail.com> 1794977801 +0530	commit: Initial commit - Task Management Application
